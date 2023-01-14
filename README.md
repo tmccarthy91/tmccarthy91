@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmccarthy91
+- 👋 Hi, I’m @tmccarthy91 (Timm McCarthy)
 - 👀 I’m interested in fantasy and sci-fi.
 - 🌱 I’m currently learning back-end development.
 - 💞️ I’m looking to collaborate on ...
